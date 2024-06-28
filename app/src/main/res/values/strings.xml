@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">KomiNews</string>
+    <string name="titulo1">Dungeon Meshi tem 2ª temporada anunciada</string>
+    <string name="titulo2">Novo filme de Haikyu chega aos cinemas</string>
+    <string name="titulo3">Viral Hit, anime promissor da temporada</string>
+    <string name="titulo4">Anime Friends 2024, veja os detalhes</string>
+    <string name="titulo5">Top 5 momentos emocionantes de Komi san</string>
+    <string name="titulo6">Mc Donalds Anuncia que fará um anime</string>
+    <string name="titulo7">Remake do anime One Piece é anunciado</string>
+
+
+    <string name="subtitulo1">O anime sucesso das ultimas duas temporadas tem sua 2ª tempodada confirmada</string>
+    <string name="subtitulo2">O filme Haikyu: A Batalha dos Conceitos chega aos cinemas brasileiros em maio</string>
+    <string name="subtitulo3">A famosa webtoon Viral Hit recebe uma promissora adaptação para anime</string>
+    <string name="subtitulo4">O maior evento de animes de São Paulo ocorrerá dos dias 18 a 21 de julho</string>
+    <string name="subtitulo5">Relembre os momentos mais emocionantes do anime "Komi Can't Communicate"</string>
+    <string name="subtitulo6">Mc Donalds anuncia anime em parceria com estudio responsalvel pelo anime "Naruto"</string>
+    <string name="subtitulo7">Foi anunciado remake de One Piece feito pelo estudio responsavel por "Spy X Family"</string>
+</resources>
